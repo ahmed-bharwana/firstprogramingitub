@@ -2,4 +2,4 @@
 This is my first repository on github.
 
 <br>
-Author-Ahmed(bharwana) 
+Author-Ahmed Sher BS Computer 
